@@ -1,0 +1,17 @@
+{
+  "name": "cypress-todolist-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Beczała",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.10.0"
+  },
+  "dependencies": {
+    "npx": "^10.2.2"
+  }
+}
